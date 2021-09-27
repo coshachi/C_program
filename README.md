@@ -16,3 +16,5 @@ Possible actions:
 10.Exit.
 
 Core adapted from the lectures.
+
+Marcin Koszalinski
